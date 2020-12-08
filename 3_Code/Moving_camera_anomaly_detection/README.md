@@ -2,9 +2,17 @@
 
 The inpainting model used in our approach is extended using an autoencoder. The network takes an input with a cut-out center area and attempts to reconstruct the missing region [1]. The usage of this model for anomaly detection is explored in this paper [2].
 
-[1] Pathak, Deepak, Philipp Krahenbuhl, Jeff Donahue, Trevor Darrell, and Alexei A. Efros. "Context encoders: Feature learning by inpainting." In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 2536-2544. 2016.
-
-[2] Zaheer, Muhammad Zaigham, Marcella Astrid, Seung-Ik Lee, and Ho Chul Shin. "Ensemble grid formation to detect potential anomalous regions using context encoders." In 2018 18th International Conference on Control, Automation and Systems (ICCAS), pp. 661-665. IEEE, 2018.
+<table>
+  <tr>
+    <td valign="top">[1]</td>
+    <td>Pathak, Deepak, Philipp Krahenbuhl, Jeff Donahue, Trevor Darrell, and Alexei A. Efros. <a href="https://arxiv.org/abs/1612.00563">Context encoders: Feature learning by inpainting.</a>.In <i>Proceedings of the IEEE conference on computer vision and pattern recognition</i>, pp. 2536-2544. 2016.
+   </td>
+  </tr>
+  <tr>
+    <td valign="top">[2]</td>
+    <td>Zaheer, Muhammad Zaigham, Marcella Astrid, Seung-Ik Lee, and Ho Chul Shin. <a href="https://arxiv.org/abs/1707.07998">Ensemble grid formation to detect potential anomalous regions using context encoders.</a>. In <i>18th International Conference on Control, Automation and Systems (ICCAS)</i>, pp. 661-665. IEEE, 2018.</td>
+  </tr>
+</table>
 
 ### Description
 ![PedAbnormal](./ped_ab_description.jpg)
