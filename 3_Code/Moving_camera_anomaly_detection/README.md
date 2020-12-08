@@ -1,6 +1,6 @@
 # Anomaly Detection using Inpainting
 
-![MovingAbnormal](./moving_ab_description.png
+![MovingAbnormal](./moving_ab_description.png)
 
 The inpainting model used in our approach is extended using an autoencoder. The network takes an input with a cut-out center area and attempts to reconstruct the missing region [1]. The usage of this model for anomaly detection is explored in this paper [2].
 
