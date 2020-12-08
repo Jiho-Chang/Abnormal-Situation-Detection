@@ -2,7 +2,7 @@
 The project contains code to detect abnormal pedestrians.  It is still work in progress.
 
 ### Description
-![PedAbnormal](./ped_ab_description.jpg){: width="100%" height="100%"}
+![PedAbnormal](./ped_ab_description.jpg)
 
 model_anomaly: The anomaly detection model is defined here. The model is trained based one-class classification scheme, built on top of an autoencoder architecture. Later, abnormal situations are detected through the thresholding of reconstruction errors.
 
@@ -22,6 +22,7 @@ ped_node: Modules for communication between the anomaly detection module and the
 - Models are trained with our specific dataset. Please contact us.
 
 ### Contributor
-* [✉️](mailto:creatrix@etri.re.kr) __신호철__ ()
+* [✉️](mailto:jh_lee@etri.re.kr) __이진하__ (in Ha, Lee)
 
- ![](https://www.etri.re.kr/images/kor/sub5/signature08.png)
+
+![](https://www.etri.re.kr/images/kor/sub5/signature08.png)
