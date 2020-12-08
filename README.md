@@ -2,7 +2,7 @@
 The project contains code to detect abnormal pedestrians.  It is still work in progress.
 
 ### Description
-![PedAbnormal](./ped_ab_description.jpg)
+![PedAbnormal](./ped_ab_description.jpg){: width="100%" height="100%"}
 
 model_anomaly: The anomaly detection model is defined here. The model is trained based one-class classification scheme, built on top of an autoencoder architecture. Later, abnormal situations are detected through the thresholding of reconstruction errors.
 
