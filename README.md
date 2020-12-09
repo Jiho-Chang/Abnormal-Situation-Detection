@@ -4,6 +4,12 @@ The project contains code to detect abnormal pedestrians.  It is still work in p
 ### Description
 ![PedAbnormal](./ped_ab_description.jpg)
 
+<p>
+    <img src="./ped_ab_description.jpg" width="50%">
+    <img src="./ped_ab_description.jpg" width="50%">
+</p>
+
+
 model_anomaly: The anomaly detection model is defined here. The model is trained based one-class classification scheme, built on top of an autoencoder architecture. Later, abnormal situations are detected through the thresholding of reconstruction errors.
 
 ped_node: Modules for communication between the anomaly detection module and the server. Receives monitoring image and bounding box information and sends abnormal scores to the server.
