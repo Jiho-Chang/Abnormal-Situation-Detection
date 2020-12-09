@@ -12,7 +12,7 @@ The inpainting model used in our approach is extended using an autoencoder. The 
   </tr>
   <tr>
     <td valign="top">[2]</td>
-    <td>Zaheer, Muhammad Zaigham, Marcella Astrid, Seung-Ik Lee, and Ho Chul Shin. <a href="https://ieeexplore.ieee.org/document/8571926">Ensemble grid formation to detect potential anomalous regions using context encoders.</a>. In <i>18th International Conference on Control, Automation and Systems (ICCAS)</i>, pp. 661-665. IEEE, 2018.</td>
+    <td>Muhammad Zaigham Zaheer, Marcella Astrid, Seung-Ik Lee, and Ho Chul Shin. <a href="https://ieeexplore.ieee.org/document/8571926">Ensemble grid formation to detect potential anomalous regions using context encoders.</a>. In <i>18th International Conference on Control, Automation and Systems (ICCAS)</i>, pp. 661-665. IEEE, 2018.</td>
   </tr>
 </table>
 
@@ -30,6 +30,6 @@ The inpainting model used in our approach is extended using an autoencoder. The 
 - Models are trained with our specific dataset. Please contact us.
 
 ### Contributor
-* [✉️](mailto:jh_lee@etri.re.kr) __이진하__ (in Ha, Lee)
+* [✉️](mailto:mzz.pieas@etri.re.kr) __Muhammad Zaigham Zaheer__
 #
 ![](https://www.etri.re.kr/images/kor/sub5/signature08.png)
