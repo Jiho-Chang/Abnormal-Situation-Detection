@@ -23,7 +23,6 @@ The inpainting model used in our approach is extended using an autoencoder. The 
 - numpy==1.16.1
 - matplotlib==2.2.2
 - scikit-learn==0.20.2
-- tqdm==4.41.1
 - Opencv-python==3.4.0.12
 
 ### Dataset
