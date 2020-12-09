@@ -5,8 +5,8 @@ The project contains code to detect abnormal pedestrians.  It is still work in p
 ![PedAbnormal](./ped_ab_description.jpg)
 
 <p>
-    <img src="./ped_ab_description.jpg" width="48%">
-    <img src="./ped_ab_description.jpg" width="48%">
+    <img src="./fixed_agent.png" width="48%">
+    <img src="./fixed_agent.png" width="48%">
 </p>
 
 
