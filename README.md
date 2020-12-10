@@ -9,6 +9,7 @@ The project contains code to detect abnormal pedestrians.  It is still work in p
     <img src="./fixed_agent.png" width="48%">
 </p>
 
+- [osr](3_Code)
 
 model_anomaly: The anomaly detection model is defined here. The model is trained based one-class classification scheme, built on top of an autoencoder architecture. Later, abnormal situations are detected through the thresholding of reconstruction errors.
 
